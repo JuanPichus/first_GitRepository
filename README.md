@@ -1,3 +1,4 @@
-#Git Starting
+#Starting to use Git
 
-I'm starting using git and this is my first try
+I'm starting to use git and this is my first try
+
